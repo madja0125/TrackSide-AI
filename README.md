@@ -1,2 +1,1 @@
-# ResumeQ-AI
-Developed ResumeIQ AI, an LLM-powered application that analyzes resumes against job descriptions, identifies skill gaps, and generates ATS optimization recommendations.
+Built TrackSide AI, an intelligent career optimization platform that uses Large Language Models to evaluate resumes, compare them against job requirements, and recommend targeted improvements.

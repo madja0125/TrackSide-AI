@@ -1,6 +1,6 @@
 import streamlit as st
-from pdf_reader import extract_text_from_pdf
-from docx_reader import extract_text_from_docx
+from utils.docx_reader import extract_text_from_docx
+from utils.pdf_plumber import extract_text_from_pdf
 
 st.title("TrackSide AI")
 
